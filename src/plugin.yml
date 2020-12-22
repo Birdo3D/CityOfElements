@@ -1,0 +1,15 @@
+main: fr.birdo770.birdobank.Main
+
+name: CityOfElements
+
+description: Plugin principal pour la Cité des Cookies.
+
+author: Birdo770
+
+version: 2.0
+
+commands:
+  inv:
+    description: Open Plugin Creative Inventory
+    aliases:
+      - inv
